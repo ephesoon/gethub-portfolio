@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Capture" src="https://github.com/user-attachments/assets/8d3556a3-7f02-4222-acf8-1caee47754bc" />
 # Ephesoon's Portfolio
 
 Welcome to my portfolio! Here you'll find information about my projects, skills, and how to get in touch.
@@ -15,7 +16,10 @@ In this case study, I analyzed Cyclistic’s bike-share data to understand behav
 
 The analysis showed that casual riders tend to take longer rides, especially on weekends, while annual members mostly use bikes on weekdays with shorter ride durations, indicating commuting behavior. Electric bikes were the most popular choice across both groups.
 
-These insights suggest that casual riders use the service more for leisure, while members rely on it for daily transportation. Based on this, targeted marketing strategies such as promoting membership benefits for weekday riders and offering incentives for casual users—could help increase membership conversions.    
+These insights suggest that casual riders use the service more for leisure, while members rely on it for daily transportation. Based on this, targeted marketing strategies such as promoting membership benefits for weekday riders and offering incentives for casual users—could help increase membership conversions.
+This dashboard highlights key behavioral differences between casual riders and members. 
+It shows that members ride more frequently during weekdays (commuting behavior), while casual riders dominate weekend usage with longer ride durations (leisure behavior). 
+This supports targeted marketing strategies to convert casual riders into members.
 <img width="473" height="312" alt="Capture" src="https://github.com/user-attachments/assets/28c6cacc-3b60-4495-a8dd-41b40b9d4f43" />
 
 **Tech Stack:** Python, pandas | **Status:** Completed
