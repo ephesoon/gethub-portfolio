@@ -45,6 +45,7 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 - 🏙️ Buildings: **5,919**
 - 🌳 Green Buffer: **20m**
 - 🌗 Shadow Angle: **45°**
+<img width="1189" height="590" alt="Capture 3" src="https://github.com/user-attachments/assets/39b8f689-9dac-4eba-9424-9d0fe2799f4e" />
 
 ---
 
