@@ -25,14 +25,134 @@ This supports targeted marketing strategies to convert casual riders into member
 
 ---
 
-### [Project 2: Your Second Project](./projects/project-2/)
+
+### [Project 2: Urban Heat Resiliency & Solar Load Modeling](./projects/project-3/)
+
+### [Urban Heat Resiliency Modeling – Overvecht, Utrecht](./projects/urban-heat-resiliency/)
+A data-driven urban climate project focused on analyzing how city structure and green spaces influence heat accumulation. The goal was to support EU climate adaptation strategies by quantifying solar heat absorption in urban environments.
+
+A physics-based spatial analysis of urban heat dynamics in the Overvecht district (Utrecht), quantifying how building geometry, shading, and greenery influence thermal stress.
+
+[🔗 View Interactive Dashboard](./urban_heat_dashboard.html)
+
+---
+
+## 🚀 Overview
+This project models the **Urban Heat Island (UHI)** effect across **5,919 buildings** using GIS and physics-based simulation.
+
+- 🌞 Solar Load: **800 W/m²**
+- 🏙️ Buildings: **5,919**
+- 🌳 Green Buffer: **20m**
+- 🌗 Shadow Angle: **45°**
+
+---
+
+## 📊 Key Results
+
+| Metric | Value |
+|------|------|
+| Total Solar Load | **529,909,196 W (~530 MW)** |
+| After Mitigation | **401,257,576 W (~401 MW)** |
+| Heat Reduced | **128,651,620 W (24.3%)** |
+
+---
+
+## 💰 Economic Value of Green Infrastructure
+
+- Electricity required to replace trees: **42,883.87 kW**
+- Cooling cost savings: **€12,865.16 per hour**
+
+➡️ Urban greenery functions as a **natural power plant for cooling**
+
+---
+
+## 🔍 Key Findings
+
+### 1. Height is the main driver
+- Avg height (all): **4.87 m**
+- Avg height (high-risk): **13.60 m**
+➡️ High-risk buildings are ~**3× taller**
+
+---
+
+### 2. Wall area dominates cooling effects
+- Example: **Building 300043630**
+  - Wall area: **16,453 m²**
+  - Heat: **3.25M W**
+  - Still high risk despite shade + greenery
+
+---
+
+### 3. Environmental exposure matters
+- Example: **Building 300283598 (12m)**
+  - ❌ No shade
+  - ❌ No greenery
+  - 🔥 Higher heat than taller buildings
+
+---
+
+### 4. Urban canyon effect increases heat
+- Tall buildings (>15m) apply **+10% thermal trapping**
+- Heat reflects between walls instead of escaping
+
+---
+
+##  Methodology
+
+### Data Pipeline
+- OSMnx → building + green space extraction
+- Reprojected to **EPSG:28992**
+- Cleaned missing values
+
+### Physics Modeling
+- Shadow length = height / tan(45°)
+- Shadow zones = geometry buffer
+- Canyon factor applied for tall buildings
+
+### Spatial Analysis
+- Spatial join → detect shading
+- Green buffers → evapotranspiration effect
+- Fixed join duplication + index issues
+
+### Heat Model
+- Base solar load
+- Shade → **-50%**
+- Green → **-20%**
+
+---
+
+## 🏁 Conclusion
+
+- 🌳 Nature reduces **24.3%** of heat
+- 🏢 Tall buildings remain dominant heat sources
+- ⚠️ ~401 MW heat still remains
+
+### Recommendation:
+- Trees → exposed buildings
+- Reflective materials → tall buildings
+- Combine **Nature + Engineering solutions**
+
+---
+
+## 📌 Portfolio Value
+
+This project demonstrates:
+- GIS + physics integration
+- Spatial data engineering
+- Climate modeling
+- Real-world policy insights
+
+---
+
+### [Project 3: Your Second Project](./projects/project-2/)
 A brief description of your second project.
 
 **Tech Stack:** Python, Django, PostgreSQL | **Status:** In Progress
 
 ---
 
-### [Project 3: Your Third Project](./projects/project-3/)
+
+### [Project 4: Your Third Project](./projects/project-3/)
 A brief description of your third project.
 
 **Tech Stack:** TypeScript, Vue.js, Firebase | **Status:** Completed
