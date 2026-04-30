@@ -33,11 +33,12 @@ A data-driven urban climate project focused on analyzing how city structure and 
 
 A physics-based spatial analysis of urban heat dynamics in the Overvecht district (Utrecht), quantifying how building geometry, shading, and greenery influence thermal stress.
 
-[🔗 View Interactive Dashboard](./urban_heat_dashboard.html)
+<img width="941" height="421" alt="Capture2" src="https://github.com/user-attachments/assets/982bf66d-0979-4726-b77a-28b50811d037" />
+
 
 ---
 
-## 🚀 Overview
+##  Overview
 This project models the **Urban Heat Island (UHI)** effect across **5,919 buildings** using GIS and physics-based simulation.
 
 - 🌞 Solar Load: **800 W/m²**
@@ -47,7 +48,7 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 | Metric | Value |
 |------|------|
@@ -57,7 +58,7 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 
 ---
 
-## 💰 Economic Value of Green Infrastructure
+##  Economic Value of Green Infrastructure
 
 - Electricity required to replace trees: **42,883.87 kW**
 - Cooling cost savings: **€12,865.16 per hour**
@@ -121,7 +122,7 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 - 🌳 Nature reduces **24.3%** of heat
 - 🏢 Tall buildings remain dominant heat sources
@@ -134,7 +135,7 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 
 ---
 
-## 📌 Portfolio Value
+##  Portfolio Value
 
 This project demonstrates:
 - GIS + physics integration
