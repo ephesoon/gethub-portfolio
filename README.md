@@ -36,7 +36,8 @@ A physics-based spatial analysis of urban heat dynamics in the Overvecht distric
 Further analysis shows that both tall buildings and unshaded mid-rise buildings contribute significantly to heat risk.
 <img width="639" height="341" alt="pythone map for overvecht" src="https://github.com/user-attachments/assets/c04956da-9f3b-429a-a609-4783214a2a9d" />
 
-<img width="1024" height="682" alt="Overvecht solar radation distribution to be uploaded for get hup" src="https://github.com/user-attachments/assets/62407002-60e8-4535-bc36-fb3f5ba18a19" />
+<img width="4000" height="2647" alt="Pokecut_1777631448036" src="https://github.com/user-attachments/assets/6d57cc8b-814c-4296-91cf-cd9eb946f767" />
+
 
 
 
