@@ -78,7 +78,7 @@ Further analysis shows that both tall buildings and unshaded mid-rise buildings 
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### 1. Height is the main driver
 - Avg height (all): **4.87 m**
