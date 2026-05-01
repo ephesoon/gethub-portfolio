@@ -137,10 +137,12 @@ The analysis reveals that urban geometry and lack of vegetation are the primary 
 Significant Thermal Load: The district faces a total theoretical solar load of 529.91 MW, highlighting the massive scale of energy absorption by the built environment.
 
 Mitigation Success: Existing greenery and shading already provide a 24.3% reduction in heat, saving approximately 128.65 MW of energy.
- 🌳 Nature reduces **24.3%** of heat
+ 
+ -🌳 Nature reduces **24.3%** of heat
 
 The "Height-Risk" Link: High-risk buildings are significantly taller, averaging 13.60m (nearly 3x the district average of 4.87m), which leads to increased surface area for solar absorption.
- 🏢 Tall buildings remain dominant heat sources
+ 
+ -🏢 Tall buildings remain dominant heat sources
  
 Economic Impact: Nature-based infrastructure currently saves the equivalent of 43 MW of mechanical cooling every hour, translating to an economic value of €12,865.16 per hour in avoided electricity costs.
 
@@ -158,7 +160,7 @@ To further reduce heat risk and improve climate resilience in Utrecht, the follo
 - Address Urban Canyons: For buildings higher than 15m, where the "Canyon Trapping Factor" increases thermal load by 10%, prioritize street-level tree canopies to break the cycle of trapped radiation.
 
 - Nature-First Policy: Integrate nature-based solutions as a primary cooling strategy, as they currently provide a more cost-effective reduction (-20% heat) compared to mechanical alternatives.
-- 
+ 
 - Combine **Nature + Engineering solutions**
 
 ---
