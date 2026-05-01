@@ -132,13 +132,33 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 
 ##  Conclusion
 
-- 🌳 Nature reduces **24.3%** of heat
-- 🏢 Tall buildings remain dominant heat sources
+The analysis reveals that urban geometry and lack of vegetation are the primary drivers of thermal stress in Overvecht. Key findings include:
+
+Significant Thermal Load: The district faces a total theoretical solar load of 529.91 MW, highlighting the massive scale of energy absorption by the built environment.
+
+Mitigation Success: Existing greenery and shading already provide a 24.3% reduction in heat, saving approximately 128.65 MW of energy.
+ 🌳 Nature reduces **24.3%** of heat
+
+The "Height-Risk" Link: High-risk buildings are significantly taller, averaging 13.60m (nearly 3x the district average of 4.87m), which leads to increased surface area for solar absorption.
+ 🏢 Tall buildings remain dominant heat sources
+ 
+Economic Impact: Nature-based infrastructure currently saves the equivalent of 43 MW of mechanical cooling every hour, translating to an economic value of €12,865.16 per hour in avoided electricity costs.
+
 - ⚠️ ~401 MW heat still remains
 
-### Recommendation:
-- Trees → exposed buildings
-- Reflective materials → tall buildings
+## Recommendations
+To further reduce heat risk and improve climate resilience in Utrecht, the following actions are recommended:
+
+- Target the "Top 10": Prioritize the ten most vulnerable buildings identified in the dashboard, specifically those with wall areas exceeding 16,000 m², for immediate retrofitting.
+
+- Expand the Green Buffer: Increase the "Green Buffer Radius" beyond the current 20m in high-risk zones, particularly around Overvecht Centrum, to maximize the cooling "halo" effect.
+
+- Implement Vertical Mitigation: Since wall area dominates heat absorption, focus on vertical greenery and high-albedo (reflective) wall coatings for buildings taller than 12m.
+
+- Address Urban Canyons: For buildings higher than 15m, where the "Canyon Trapping Factor" increases thermal load by 10%, prioritize street-level tree canopies to break the cycle of trapped radiation.
+
+- Nature-First Policy: Integrate nature-based solutions as a primary cooling strategy, as they currently provide a more cost-effective reduction (-20% heat) compared to mechanical alternatives.
+- 
 - Combine **Nature + Engineering solutions**
 
 ---
