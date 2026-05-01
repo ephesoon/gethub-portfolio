@@ -128,7 +128,7 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 - Green → **-20%**
 
 ---
-![Uploading 8fa5529f-0593-4f2c-a847-2a9e5599f594.png…]()
+
 
 ##  Conclusion
 
@@ -138,11 +138,11 @@ Significant Thermal Load: The district faces a total theoretical solar load of 5
 
 Mitigation Success: Existing greenery and shading already provide a 24.3% reduction in heat, saving approximately 128.65 MW of energy.
  
- -🌳 Nature reduces **24.3%** of heat
+ - 🌳 Nature reduces **24.3%** of heat
 
 The "Height-Risk" Link: High-risk buildings are significantly taller, averaging 13.60m (nearly 3x the district average of 4.87m), which leads to increased surface area for solar absorption.
  
- -🏢 Tall buildings remain dominant heat sources
+ - 🏢 Tall buildings remain dominant heat sources
  
 Economic Impact: Nature-based infrastructure currently saves the equivalent of 43 MW of mechanical cooling every hour, translating to an economic value of €12,865.16 per hour in avoided electricity costs.
 
