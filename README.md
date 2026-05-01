@@ -29,7 +29,9 @@ This supports targeted marketing strategies to convert casual riders into member
 ### [Project 2: Urban Heat Resiliency & Solar Load Modeling](./projects/project-3/)
 
 ### [Urban Heat Resiliency Modeling – Overvecht, Utrecht](./projects/urban-heat-resiliency/)
-A data-driven urban climate project focused on analyzing how city structure and green spaces influence heat accumulation. The goal was to support EU climate adaptation strategies by quantifying solar heat absorption in urban environments.
+This case study evaluates the urban heat risk for 5,919 buildings in the Overvecht district of Utrecht, Netherlands, to quantify the impact of architectural geometry and greenery on thermal resilience. The process involved a physics-based spatial analysis that calculated total theoretical solar loads while factoring in the "Urban Canyon" effect—where heat is trapped between tall structures and the cooling "halos" provided by nature-based mitigation. 
+
+The goal was to support EU climate adaptation strategies by quantifying solar heat absorption in urban environments.
 
 A physics-based spatial analysis of urban heat dynamics in the Overvecht district (Utrecht), quantifying how building geometry, shading, and greenery influence thermal stress.
 * Note: The dashboard uses average values (13.6m), which hides extreme buildings (33m–36m). 
