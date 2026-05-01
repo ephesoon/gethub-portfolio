@@ -29,13 +29,12 @@ This supports targeted marketing strategies to convert casual riders into member
 ### [Project 2: Urban Heat Resiliency & Solar Load Modeling](./projects/project-3/)
 
 ### [Urban Heat Resiliency Modeling – Overvecht, Utrecht](./projects/urban-heat-resiliency/)
-This case study evaluates the urban heat risk for 5,919 buildings in the Overvecht district of Utrecht, Netherlands, to quantify the impact of architectural geometry and greenery on thermal resilience. The process involved a physics-based spatial analysis that calculated total theoretical solar loads while factoring in the "Urban Canyon" effect—where heat is trapped between tall structures and the cooling "halos" provided by nature-based mitigation. 
+This case study evaluates the urban heat risk for 5,919 buildings in the Overvecht district of Utrecht, Netherlands, to quantify the impact of architectural geometry and greenery on thermal resilience. The process involved a physics-based spatial analysis that calculated total theoretical solar loads while factoring in the "Urban Canyon" effect where heat is trapped between tall structures and the cooling "halos" provided by nature-based mitigation. 
 
 The goal was to support EU climate adaptation strategies by quantifying solar heat absorption in urban environments.
 
 A physics-based spatial analysis of urban heat dynamics in the Overvecht district (Utrecht), quantifying how building geometry, shading, and greenery influence thermal stress.
-* Note: The dashboard uses average values (13.6m), which hides extreme buildings (33m–36m). 
-Further analysis shows that both tall buildings and unshaded mid-rise buildings contribute significantly to heat risk.
+
 <img width="639" height="341" alt="pythone map for overvecht" src="https://github.com/user-attachments/assets/c04956da-9f3b-429a-a609-4783214a2a9d" />
 
 <img width="4000" height="2647" alt="Pokecut_1777631448036" src="https://github.com/user-attachments/assets/6d57cc8b-814c-4296-91cf-cd9eb946f767" />
@@ -53,6 +52,9 @@ This project models the **Urban Heat Island (UHI)** effect across **5,919 buildi
 - 🏙️ Buildings: **5,919**
 - 🌳 Green Buffer: **20m**
 - 🌗 Shadow Angle: **45°**
+
+* Note: The dashboard uses average values (13.6m), which hides extreme buildings (33m–36m). 
+Further analysis shows that both tall buildings and unshaded mid-rise buildings contribute significantly to heat risk.
 <img width="1189" height="590" alt="Capture 3" src="https://github.com/user-attachments/assets/39b8f689-9dac-4eba-9424-9d0fe2799f4e" />
 
 ---
