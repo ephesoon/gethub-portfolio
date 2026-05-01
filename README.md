@@ -34,7 +34,8 @@ A data-driven urban climate project focused on analyzing how city structure and 
 A physics-based spatial analysis of urban heat dynamics in the Overvecht district (Utrecht), quantifying how building geometry, shading, and greenery influence thermal stress.
 * Note: The dashboard uses average values (13.6m), which hides extreme buildings (33m–36m). 
 Further analysis shows that both tall buildings and unshaded mid-rise buildings contribute significantly to heat risk.
-<img width="941" height="421" alt="Capture2" src="https://github.com/user-attachments/assets/982bf66d-0979-4726-b77a-28b50811d037" />
+<img width="639" height="341" alt="pythone map for overvecht" src="https://github.com/user-attachments/assets/c04956da-9f3b-429a-a609-4783214a2a9d" />
+
 <img width="1024" height="682" alt="Overvecht solar radation distribution to be uploaded for get hup" src="https://github.com/user-attachments/assets/62407002-60e8-4535-bc36-fb3f5ba18a19" />
 
 
