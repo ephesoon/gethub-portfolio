@@ -37,7 +37,8 @@ A physics-based spatial analysis of urban heat dynamics in the Overvecht distric
 
 <img width="639" height="341" alt="pythone map for overvecht" src="https://github.com/user-attachments/assets/c04956da-9f3b-429a-a609-4783214a2a9d" />
 
-<img width="4000" height="2647" alt="Pokecut_1777631448036" src="https://github.com/user-attachments/assets/6d57cc8b-814c-4296-91cf-cd9eb946f767" />
+<img width="1536" height="1024" alt="the final image for get hub" src="https://github.com/user-attachments/assets/5f8391f7-9900-4a5a-8f31-dce835a74f1a" />
+
 
 
 
