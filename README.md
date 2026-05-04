@@ -40,6 +40,7 @@ A physics-based spatial analysis of urban heat dynamics in the Overvecht distric
 <img width="1536" height="1024" alt="the final image for get hub" src="https://github.com/user-attachments/assets/5f8391f7-9900-4a5a-8f31-dce835a74f1a" />
 
 
+<img width="1536" height="1024" alt="final of final overvecht" src="https://github.com/user-attachments/assets/c7ff79b9-7084-4feb-aabe-9a8227e962ab" />
 
 
 
